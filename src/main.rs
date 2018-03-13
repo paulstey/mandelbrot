@@ -28,9 +28,6 @@ fn escape_time(c: Complex<f64>, limit: u32) -> Option<u32> {
 
 
 
-
-
-
 fn main() {
-    println!("Hello, world!");
+    println!("no");
 }
